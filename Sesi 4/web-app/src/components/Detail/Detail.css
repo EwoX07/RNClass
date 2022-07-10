@@ -1,0 +1,27 @@
+.detail {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.detail-title {
+  margin-bottom: 10px
+}
+
+.main-detail {
+  background-color: rgb(141, 141, 141);
+  margin-inline: 20px;
+  padding-inline: 20px;
+}
+
+.main-detail > p {
+  font-weight: 600;
+}
+
+.date {
+  color: rgba(54, 54, 54, 0.822);
+  font-weight: 450;
+}

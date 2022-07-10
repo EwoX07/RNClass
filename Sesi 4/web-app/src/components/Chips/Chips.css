@@ -1,0 +1,27 @@
+.box {
+  max-width: 250px;
+  padding-inline: 10px;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  background-color: grey;
+}
+
+.box p {
+  font-weight: 600;
+}
+
+.box p span {
+  font-weight: 200;
+}
+
+.box-divider {
+  border: 1px solid black;
+}
+
+.box-button {
+  width: 60px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  background-color: rgb(66, 66, 66);
+}

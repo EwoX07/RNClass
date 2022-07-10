@@ -1,0 +1,21 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.about-title {
+  margin-bottom: 10px
+}
+
+.about-content {
+  margin-inline: 20px;
+  padding-inline: 20px;
+}
+
+.about-content > p {
+  font-weight: 500;
+}
